@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71077427883",
+    "project_id": "quick-chat-7af17",
+    "storage_bucket": "quick-chat-7af17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71077427883:android:5eaf840169eac25b52d5ee",
+        "android_client_info": {
+          "package_name": "co.wamaitha.quick_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71077427883-jhhlkp1dpo9m6v94hgvg5oumnb7ffofa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxYEVh-vpex8BRMjXq_Ob7LDv1LZr8Nog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71077427883-jhhlkp1dpo9m6v94hgvg5oumnb7ffofa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
